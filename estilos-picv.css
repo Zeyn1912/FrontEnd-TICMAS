@@ -1,0 +1,105 @@
+* {
+        margin:0;
+        padding:0;
+}
+button {
+    align-items: center;
+    margin: auto;
+    width: 100px;
+    height: 60px;
+    background-color: #0079b1;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    font-size: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+#columna1 {
+        position:absolute;
+        max-height: none;
+        top:0px;
+        left:0px;
+        width:500px;
+        margin-top:0px;
+        background-color:#0c32ad;
+}
+#columna2 {
+        margin-left:500px;
+        margin-right:0px;
+        margin: top 0px;;
+        background-color:#ffffff;
+}
+.imagenredonda {
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 25px;
+    margin-bottom: 15px;
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    border:3px solid #ffffff;
+    display: block;
+    }
+.titleL{
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
+.pL {
+    font-family: 'Rubik', sans-serif;
+    margin-top: 15px;
+    margin-right: 65px;
+    margin-left: 125px;
+    margin-bottom: 15px;
+    text-align: left;
+    color: #ffffff;
+    font-size: 20px;
+}
+.pLc {
+    font-family: 'Rubik', sans-serif;
+    margin-top: 15px;
+    margin-right: 65px;
+    margin-left: 125px;
+    margin-bottom: 15px;
+    text-align: left;
+    color: #ffffff;
+    font-size: 20px;
+}
+.titleR{
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color: darkcyan;
+    font-size: 40px;
+}
+.sub-titleR{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: 'Kanit', serif;    
+    text-align: left;
+    color: #4a6de0;
+    font-size: 30px;
+}
+.blackR {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: 'Kanit', serif;    
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+.pR{
+    font-family: 'Crete Round', sans-serif;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    size: 20px;
+    text-align: left;
+    color: black;
+}
+
+
